@@ -1,6 +1,3 @@
-import peasy.*;
-
-PeasyCam cam;
 
 PVector PosVec;
 PVector VeloVec;
